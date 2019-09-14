@@ -10,7 +10,7 @@ int main(int argc, char** argv)
 	cin >> cl;
 	
 	if (cl >= 50){
-		cout << "Seu gasto esta alto!"<< endl;
+		cout << "Seu gasto esta alto !"<< endl;
 	} 
 	else{
 		cout <<"Gasto na media " << cl << endl;
